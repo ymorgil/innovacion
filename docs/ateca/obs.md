@@ -22,12 +22,13 @@ Descarga desde [obsproject.com](https://obsproject.com){target="_blank"} → ins
 
 
 ### 2. Crear tu primera escena
-1. En el panel **Escenas** → clic en `+`
-2. Dale un nombre descriptivo, ej: `Escena 01`
+En el panel **Escenas** → clic en `+` y dar un nombre descriptivo, ej: `Escena 01`
+
+![obs](../assets/img/ate/obs-02.png)
 
 ### 3. Añadir fuentes a la escena
-1. En el panel **Fuentes** → clic en `+`
-2. Elige el tipo:
+En el panel **Fuentes** → clic en `+` y elegir el tipo:
+![obs](../assets/img/ate/obs-03.png)
 
 | Tipo de fuente | Para qué sirve |
 |---|---|
@@ -39,52 +40,43 @@ Descarga desde [obsproject.com](https://obsproject.com){target="_blank"} → ins
 | `Imagen` | Logos, overlays, marcos |
 | `Captura del juego` | Modo optimizado para videojuegos |
 
-### 4. Ajustar audio
-- En **Mezclador de audio** verás tus micrófonos y audio del escritorio.
-- Las barras deben quedarse en **verde/amarillo**, nunca en rojo.
-- Clic en el engranaje ⚙️ de cada canal para filtros (reducción de ruido, compresión, etc.).
+### 4. Ajustar audio  y salida
+En **Mezclador de audio** verás tus micrófonos y audio del escritorio. Las barras deben quedarse en **verde/amarillo**, nunca en rojo. Clic en el engranaje ⚙️ de cada canal para filtros (reducción de ruido, compresión, etc.).
 
-### 5. Configurar salida
-`Archivo` → `Configuración` → sección **Salida**:
+`Archivo` → `Ajustes` → sección **Salida**:
+
 - **Modo simple** para empezar
 - Codificador: `x264` (CPU) o `NVENC/AMF` si tienes GPU Nvidia/AMD
 - Calidad de grabación: `Alta calidad, tamaño de archivo mediano`
 
-### 6. ¡Grabar o hacer streaming!
+![obs](../assets/img/ate/obs-04.png)
+
+### 5. ¡Grabar o hacer streaming!
 - **Iniciar grabación** → graba en tu disco
 - **Iniciar streaming** → necesitas configurar antes la plataforma (Twitch, YouTube, etc.) en `Configuración → Emisión`
 
 ---
 
-## ⌨️ Atajos de teclado esenciales
-
-| Acción | Atajo por defecto |
-|---|---|
-| Iniciar/parar grabación | (configurar manualmente) |
-| Iniciar/parar streaming | (configurar manualmente) |
-| Silenciar micrófono | (configurar manualmente) |
-| Cambiar de escena | Clic en la escena o atajo personalizado |
-
-> 💡 **Recomendación:** Ve a `Configuración → Atajos de teclado` y asigna teclas a las acciones que más uses.
-
----
-
-## 🎨 Trucos útiles para empezar
+## Trucos y Atajos
 
 - **Bloquear fuentes** — clic derecho sobre una fuente → `Bloquear` para que no la muevas sin querer.
 - **Orden de fuentes importa** — las fuentes de arriba tapan a las de abajo (como capas en Photoshop).
 - **Previsualización** — lo que ves en el canvas NO es lo que se graba hasta que das a grabar. Usa `Estudio` para ver ambas cosas a la vez.
 - **Modo Estudio** — botón abajo a la derecha, permite preparar la siguiente escena antes de cambiar.
 - **Filtros de vídeo** — clic derecho en una fuente → `Filtros` → puedes añadir corrección de color, máscara, recorte, etc.
+- Ve a `Configuración → Atajos de teclado` y asigna teclas a las acciones que más uses. Por ejemplo: Iniciar/parar grabación, Iniciar/parar streaming, Silenciar micrófono, Cambiar de escena 
 
----
+
+
+
+
 
 ## 📁 Dónde se guardan las grabaciones
 
 Por defecto en la **carpeta de vídeos** del sistema. Para cambiarlo:
 `Configuración → Salida → Grabación → Ruta de grabación`
 
----
+
 
 ## 🔧 Configuración recomendada para empezar (grabación local)
 
