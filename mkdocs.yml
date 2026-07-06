@@ -21,7 +21,16 @@ theme:
 nav:
    - Inicio: index.md
    - Ateca:
-        - OBS: ateca/obs.md
+        - Realidad Virtual y Aumentada: ateca/01-realidad-virtual-aumentada.md
+        - Diseño y Fabricación 3D: ateca/02-diseno-fabricacion-3d.md
+        - Repositorios de diseños 3D gratuitos: ateca/repositorios-diseños-3d-gratuitos.md
+        - Radio y Audio: ateca/03-radio-audio.md
+        - Vídeo y Streaming: ateca/04-video-streaming.md
+        - OBS Studio: ateca/obs.md
+        - Edición de Imagen e Impresión: ateca/05-edicion-imagen-impresion.md
+        - Domótica y Automatización: ateca/06-domotica-automatizacion.md
+        - Comparativa de webs de Aulas ATECA: ateca/comparativa-webs-ateca.md
+        - Plan de mejora de la web ATECA: ateca/plan-mejora-web-ateca.md
 
 plugins:
    - glightbox
@@ -31,3 +40,4 @@ extra_css:
 
 markdown_extensions:
    - attr_list
+   - tables
