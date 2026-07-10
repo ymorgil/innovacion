@@ -31,6 +31,12 @@ nav:
         - Domótica y Automatización: ateca/06-domotica-automatizacion.md
         - Comparativa de webs de Aulas ATECA: ateca/comparativa-webs-ateca.md
         - Plan de mejora de la web ATECA: ateca/plan-mejora-web-ateca.md
+   - Proyectos educativos:
+        - Normativa Proyectos de Innovación FP: proy-educ/normativa-proyectos-innovacion.md
+   - Trámites:
+        - Certificado Digital: tramites/certificado-digital.md
+   - Otras convocatorias:
+        - Otras convocatorias y fechas: proy-otros/otras-convocatorias.md
 
 plugins:
    - glightbox
