@@ -22,6 +22,7 @@ nav:
    - Inicio: index.md
    - Ateca:
         - Realidad Virtual y Aumentada: ateca/01-realidad-virtual-aumentada.md
+        - Apps VR gratuitas por familia profesional: ateca/07-apps-vr-gratuitas-familias-profesionales.md
         - Diseño y Fabricación 3D: ateca/02-diseno-fabricacion-3d.md
         - Repositorios de diseños 3D gratuitos: ateca/repositorios-diseños-3d-gratuitos.md
         - Radio y Audio: ateca/03-radio-audio.md
@@ -31,6 +32,8 @@ nav:
         - Domótica y Automatización: ateca/06-domotica-automatizacion.md
         - Comparativa de webs de Aulas ATECA: ateca/comparativa-webs-ateca.md
         - Plan de mejora de la web ATECA: ateca/plan-mejora-web-ateca.md
+        - Robótica y dron - Comparativa y presupuesto: ateca/08-comparativa-robotica-dron-aulas-ateca.md
+        - Propuesta de compra de robótica y dron: ateca/09-propuesta-compra-robotica-dron.md
    - Proyectos educativos:
         - Normativa Proyectos de Innovación FP: proy-educ/normativa-proyectos-innovacion.md
    - Trámites:
